@@ -1,5 +1,5 @@
 ### You Are Now Entering Rhys' Githubbb
- [My Website](rhys-011003.github.io/Rhys-josmin/)
+ [My Website](https://rhys-011003.github.io/Rhys-josmin)
 - 🔭 I’m currently working on a Tonn of Websites,i just finished making the Official Inspirus Website https://www.inspirus.dbcegoa.ac.in/
 - 🌱 I’m currently learning  Flask
 - 📫 How to reach me: Please dont 🤡........ jk https://wa.me/917588354003
