@@ -1,7 +1,7 @@
 ### You Are Now Entering Rhys' Githubbb
 
 - 🔭 I’m currently working on a Tonn of Websites,i just finished making the Official Inspirus Website https://www.inspirus.dbcegoa.ac.in/
-- 🌱 I’m currently learning how to talk to people without crushing their souls  
+- 🌱 I’m currently learning how to talk to people without crushing their souls (Update : Ive Given up on this 😶‍🌫) 
 - 😄 Pronouns: Awesome/Rhys/REALLLY AWESOMMEE
 - ⚡ Fun fact: I'll probably sit a long time thinking about a fun fact
  
@@ -11,9 +11,9 @@
 ## WebDev Ive Done
  - [My Website](https://rhys-011003.github.io/Rhys-josmin)   
  - [Inspirus DBCE](https://www.inspirus.dbcegoa.ac.in/)  
- - [Avinya DBCE](https://www.inspirus.dbcegoa.ac.in/)  
- - [ACM DBCE](https://www.inspirus.dbcegoa.ac.in/)
- - Neural Kissan Dashboard [Closed Source]
+ - [Avinya DBCE](http://avinya.dbcegoa.ac.in/) 
+ - [ACM DBCE](https://acmrhys.netlify.app/)
+ - Neural Kissan [Closed Source]
 
 
 ## Python Projects
