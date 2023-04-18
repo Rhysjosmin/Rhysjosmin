@@ -29,6 +29,7 @@
 - Backend  --Flask 
 
 ## My Art Skills include
+- Illustrator
 - Blender
 - 
 
