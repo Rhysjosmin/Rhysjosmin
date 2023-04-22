@@ -33,5 +33,5 @@
 - Blender
 
 
-[![](https://visitcount.itsvg.in/api?id=rhysjosmin&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rhysjosmin&label=Profile%20Views&color=9&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
