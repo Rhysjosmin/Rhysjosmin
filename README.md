@@ -31,5 +31,7 @@
 ## My Art Skills include
 - Illustrator
 - Blender
-- 
+
+
+[![](https://visitcount.itsvg.in/api?id=rhysjosmin&icon=2&color=12)](https://visitcount.itsvg.in)
 
