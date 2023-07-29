@@ -13,7 +13,7 @@
 
 
 
-[![Rhys' GitHub stats](https://github-readme-stats.vercel.app/api?username=rhysjosmin)]
+![Rhys' GitHub stats](https://github-readme-stats.vercel.app/api?username=rhysjosmin)
  
  
 
