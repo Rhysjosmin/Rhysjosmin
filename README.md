@@ -13,11 +13,7 @@
 
 
 
-## Python Projects
- - Neural Kissan 
- - - Flask
- - - Neural Networks
- - - API's
+[![Rhys' GitHub stats](https://github-readme-stats.vercel.app/api?username=rhysjosmin)]
  
  
 
