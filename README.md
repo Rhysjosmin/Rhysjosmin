@@ -8,12 +8,9 @@
  
 <!-- [![Rhys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhys-011003)](https://github.com/anuraghazra/github-readme-stats) -->
 
-## WebDev Ive Done
+
  - [My Website](https://rhysjosmin.netlify.app/)   
- - [Inspirus DBCE](http://inspirus.dbcegoa.ac.in/)
- - [Avinya DBCE](http://avinya.dbcegoa.ac.in/) 
- - [ACM DBCE](https://dbceacm.netlify.app/)
- - [Neural Kissan](https://neuralkissan.netlify.app/)
+
 
 
 ## Python Projects
@@ -98,7 +95,6 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 
 
 
