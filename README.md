@@ -17,7 +17,6 @@
  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhysjosmin&" alt="RhysJosmin" />
 
-Sure, here's the organized list of your skills using Markdown code with the provided SVGs:
 
 ## My Skills
 
