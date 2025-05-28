@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning how to talk to people without crushing their souls (Update : Ive Given up on this 😶‍🌫) 
 - 😄 Pronouns: Awesome/Rhys/REALLLY AWESOMMEE
 - ⚡ Fun fact: I'll probably sit a long time thinking about a fun fact
- <a href="https://gitroll.io/profile/uNGsx1YU3rqMCBN6W4nThQsQZGp12" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uNGsx1YU3rqMCBN6W4nThQsQZGp12" alt="GitRoll Profile Badge"/></a>
+<!-- <a href="https://gitroll.io/profile/uNGsx1YU3rqMCBN6W4nThQsQZGp12" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uNGsx1YU3rqMCBN6W4nThQsQZGp12" alt="GitRoll Profile Badge"/></a> yikes-->
  
 <!-- [![Rhys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhys-011003)](https://github.com/anuraghazra/github-readme-stats) -->
 
