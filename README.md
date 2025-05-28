@@ -1,5 +1,5 @@
 ### You Are Now Entering Rhys' Githubbb
-
+[rhysjosm.in](https://rhysjosm.in/) 
 - 🔭 I’m currently working on a Tonn of Websites
 - 🌱 I’m currently learning how to talk to people without crushing their souls (Update : Ive Given up on this 😶‍🌫) 
 - 😄 Pronouns: Awesome/Rhys/REALLLY AWESOMMEE
@@ -9,8 +9,7 @@
 <!-- [![Rhys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhys-011003)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
- - [My Website](https://rhysjosmin.netlify.app/)   
-
+<!-- - [My Website](https://rhysjosmin.netlify.app/)   -->
 
 
 ![Rhys' GitHub stats](https://github-readme-stats.vercel.app/api?username=rhysjosmin)
